@@ -18,7 +18,7 @@ Project Objectives
 
 7. Learn how to use the new Link View in SwiftUI 2.0
 
-8. Learn how to use the new Goup Box View in SwiftUI 2.0
+8. Learn how to use the new Group Box View in SwiftUI 2.0
 
 9. Learn how to use the new Disclosure View in SwiftUI 2.0
 
